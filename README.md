@@ -30,6 +30,7 @@ mazegame
 │ ├─ main.py # 主程序入口，包含Game类
 │ ├─ maze.py # 迷宫类
 │ ├─ player.py # 玩家类
+│ ├─ record.txt # 时间记录
 ├─ fire # 实现烟花动画的所有帧，五十张
 ├─ font # 字体
 ├─ music # 音效

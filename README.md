@@ -25,7 +25,7 @@
 python main.py
 ## 目录结构
 ```
-mazegame
+maze-game
 ├─ code # 代码目录
 │ ├─ main.py # 主程序入口，包含Game类
 │ ├─ maze.py # 迷宫类
